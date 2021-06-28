@@ -18,6 +18,9 @@ O terceiro teste treina uma U-Net para identificar diretamente as regiões do pu
 # Exemplo de utilização da rede treinada
 - Notebooks/exemplo_de_utilização_da_rede_final.ipynb---Notebook exemplificando como carregar e utilizar a rede para classificar os frames como frames infectados por covid ou frames "saudáveis". E demarcando a região infectada.
 
+![alt text](https://github.com/lucaslampier/DeepLearninCovid_Lucas_Leticia/blob/main/resultado1.PNG?raw=true)
+![alt text](https://github.com/lucaslampier/DeepLearninCovid_Lucas_Leticia/blob/main/resultado2.PNG?raw=true)
+
 # Codigo para segmentar a ROI dos pulmões
 - Notebooks/selecionar_pulmoes.py
 
