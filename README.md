@@ -6,9 +6,10 @@ Relatorio_LucasLampier_LeticiaAraujo.pdf
 
 # Codigo do treinamento de cada um dos testes 
 - Notebooks/Teste1_VGG_arch.ipynb ---
-Testa uma arquitetura baseada na VGG na tarefa de identificar frames de CT contendo infecção por COVID de frames de pulmões saudáis. O arquivo usado para pré-processar está em : 
+Treina uma arquitetura baseada na VGG na tarefa de identificar frames de CT contendo infecção por COVID de frames de pulmões saudáis. O arquivo usado para pré-processar está em: Extras/pre_processamento_treino_teste.ipynb. Os resultados não foram bons.
 
-- Notebooks/Teste 2-1 _ Unet_Pulmao_Segmentacao.ipynb
+- Notebooks/Teste 2-1 _ Unet_Pulmao_Segmentacao.ipynb---
+Treina e uma U-Net para segmentar a região dos pulmões dos frames de CT. As regiõs foram  
 - Notebooks/Teste_2-2_VGG_pulmao_segmentado.ipynb
 - Notebooks/Teste 3_ Unet_mascaras_covid.ipynb
 
