@@ -23,7 +23,7 @@ O terceiro teste treina uma U-Net para identificar diretamente as regiões do pu
 
 # Usabilidade 
 Bastra trocar os caminhos dos arquivos de dados e/ ou modelos salvos nos notebooks e rodar:
-![alt text](https://github.com/lucaslampier/DeepLearninCovid_Lucas_Leticia/blob/main/caminho.PNG?raw=true)
+![alt text](https://github.com/lucaslampier/DeepLearninCovid_Lucas_Leticia/blob/main/Caminho.PNG?raw=true)
 
 # Codigo para segmentar a ROI dos pulmões
 - Notebooks/selecionar_pulmoes.py
